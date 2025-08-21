@@ -58,7 +58,7 @@ Template for User Stories:
 
 ☐ **Implement authorization by restricting access to the Creation, Updating & Deletion of resources.**
 
-☐ Be **deployed online** using **Heroku**.
+☐ Be **deployed online** using **Render**.
 
 #### The app may optionally:
 
