@@ -48,6 +48,22 @@ Template for User Stories:
 
 🔑 Start with **models** before building extra features.
 
+### Your App Must:
+
+☐ Be a full-stack **MERN** application.
+
+☐ Persist data in **MongoDB**.
+
+☐ **Authenticate users using JWT Auth**.
+
+☐ **Implement authorization by restricting access to the Creation, Updating & Deletion of resources.**
+
+☐ Be **deployed online** using **Heroku**.
+
+#### The app may optionally:
+
+☐ Consume data from a third-party API.
+
 ---
 
 ## Team Workflow
