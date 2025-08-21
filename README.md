@@ -81,7 +81,7 @@ Your team’s repo **must include a README** with:
 
 * App intro + screenshot
 * Technologies used
-* Links to pitch deck, Trello, and deployed Heroku app
+* Links to pitch deck, Trello, and deployed render app
 * Planned future enhancements
 
 ---
