@@ -29,8 +29,8 @@ See examples: [Meal Ticket](https://docs.google.com/presentation/d/1CsBuC-a_AZ1y
 Your Trello should include:
 
 * **User Stories** (Ice Box → Current/MVP → Completed)
-* **Wireframes** of key pages
-* **ERD (Entity Relationship Diagram)**
+* **Wireframes of Frontend**
+* **Routing Table For API**
 
 Template for User Stories:
 
